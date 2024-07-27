@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on Data Visualisation Projects<br>👯 I’m looking to collaborate on Machine Learning<br>🌱 I’m currently learning Data Structures<br>💬 Ask me about UI/UX, Design, ML, CV.<br>
+# 💫 About Me: Hi, i'm Swarnim!
+🔭 I’m currently working on Data Visualisation Projects<br>👯 I’m looking to collaborate on Machine Learning<br>🌱 I’m currently learning Cloud Computing, Data Virtualization<br> 
 
 
 ## 🌐 Socials:
